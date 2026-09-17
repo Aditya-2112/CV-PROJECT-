@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/
+outputs/
+*.pth
+*.h5
+*.ckpt
+.DS_Store
+.vscode/
